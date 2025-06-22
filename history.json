@@ -1,0 +1,36 @@
+{
+    "junaidkhan": [
+        {
+            "time": "2025-06-20 23:16:14",
+            "prediction": "Early_Blight",
+            "confidence": 99.98612213134766,
+            "source": "upload"
+        },
+        {
+            "time": "2025-06-20 23:16:52",
+            "prediction": "Healthy",
+            "confidence": 99.9908447265625,
+            "source": "upload"
+        },
+        {
+            "time": "2025-06-20 23:17:33",
+            "prediction": "Late_Blight",
+            "confidence": 99.6196060180664,
+            "source": "upload"
+        }
+    ],
+    "junaid": [
+        {
+            "time": "2025-06-21 21:22:55",
+            "prediction": "Early_Blight",
+            "confidence": 98.33261108398438,
+            "source": "upload"
+        },
+        {
+            "time": "2025-06-21 21:25:46",
+            "prediction": "Early_Blight",
+            "confidence": 99.99998474121094,
+            "source": "upload"
+        }
+    ]
+}
